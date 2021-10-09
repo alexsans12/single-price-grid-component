@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-oyxYX6DvS)
+- Live Site URL: [Netlify](https://alexsans-single-price-grid-component.netlify.app/)
 
 ## My process
 
